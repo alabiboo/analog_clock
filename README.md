@@ -1,5 +1,8 @@
 # My analog clock
 
 
-## Getting Started
+## License & Copyright
+Abibou ALABI, full stack developer
+
+Licensed under the [MIT License](LICENSE).
 
